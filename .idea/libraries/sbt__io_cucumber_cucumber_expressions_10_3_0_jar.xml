@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.cucumber:cucumber-expressions:10.3.0:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/io/cucumber/cucumber-expressions/10.3.0/cucumber-expressions-10.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/io/cucumber/cucumber-expressions/10.3.0/cucumber-expressions-10.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

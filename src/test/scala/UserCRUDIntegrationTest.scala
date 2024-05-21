@@ -1,6 +1,6 @@
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.should.Matchers
-
+import usercrud.{User, UserCRUD}
 class UserCRUDIntegrationTest extends AnyFlatSpec with Matchers {
   "UserCRUD" should "handle a full user lifecycle" in {
     val crud = new UserCRUD

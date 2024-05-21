@@ -1,5 +1,7 @@
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.should.Matchers
+import usercrud.{User, UserCRUD}
+
 
 class UserCRUDTest extends AnyFlatSpec with Matchers {
   "UserCRUD" should "create, read, update, and delete users" in {
